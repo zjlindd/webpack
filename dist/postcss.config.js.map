@@ -1,0 +1,1 @@
+{"version":3,"sources":["../postcss.config.js"],"names":["module","exports","plugins","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB;AACbC,aAAS,CACLC,QAAQ,cAAR,CADK;AADI,CAAjB","file":"postcss.config.js","sourcesContent":["module.exports = {\r\n    plugins: [\r\n        require('autoprefixer')\r\n    ]\r\n}"]}

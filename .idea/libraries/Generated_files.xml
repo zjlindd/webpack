@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/build/bundle-b591b3e63911a18a9099.js" />
+        <item url="file://$PROJECT_DIR$/dist/postcss.config.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/bundle.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/bundle.js" />
+        <item url="file://$PROJECT_DIR$/dist/webpack.production.config.js" />
+        <item url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/Greeter.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/Greeter.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/bundle-b591b3e63911a18a9099.js" />
+      <root url="file://$PROJECT_DIR$/dist/postcss.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/bundle.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/bundle.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.production.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
